@@ -1,4 +1,16 @@
 ### Hi there friends👋
+I sometimes love to write something like this whenever I open my editor, `const myName = 'Abdulramon Jemil'`
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **abdulramonjemil/abdulramonjemil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
