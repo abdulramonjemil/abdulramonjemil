@@ -1,6 +1,6 @@
 ![Webp net-resizeimage (1)](https://user-images.githubusercontent.com/80219104/170862066-3534225f-f550-4be1-ac88-52ace2a15f9f.png)
 
-<h1 align="center">Hi friend👋,</h3>
+# Hi friend👋
 
 I'm Abdulramon Jemil, a web developer, computer enthusiast and technical writer. I got into the field of programming as a result of the lockdown in 2020. I like to read and write about computers and everything that revolves around them. I hope to dive into Open Source very soon.
 
@@ -14,7 +14,11 @@ I'm Abdulramon Jemil, a web developer, computer enthusiast and technical writer.
 
 - ⚡ Fun fact: I learned HTML, CSS and JavaScript with just my Android phone, and didn't get a widescreen device for coding until after about 18 months.
 
+## My GitHub Stats
 
+<a href="https://github.com/abdulramonjemil">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulramonjemil&show_icons=true&theme=tokyonight" />
+</a>
 
 
 <!--
