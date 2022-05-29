@@ -1,5 +1,4 @@
-![untitled-design - 2 - -1-](https://user-images.githubusercontent.com/80219104/170861940-69ad480e-bb13-4679-b8dd-2149ae991a0c.png)
-
+![Webp net-resizeimage (1)](https://user-images.githubusercontent.com/80219104/170862066-3534225f-f550-4be1-ac88-52ace2a15f9f.png)
 
 <h1 align="center">Hi friend👋,</h3>
 
