@@ -1,4 +1,5 @@
-![Abdulramon Jemil name on black background image](https://user-images.githubusercontent.com/80219104/170860851-dc1612ac-e462-49ca-bf80-76f8ce66b8a3.png)
+![untitled-design - 2 - -1-](https://user-images.githubusercontent.com/80219104/170861940-69ad480e-bb13-4679-b8dd-2149ae991a0c.png)
+
 
 <h1 align="center">Hi friend👋,</h3>
 
