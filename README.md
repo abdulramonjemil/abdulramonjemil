@@ -20,12 +20,6 @@ I'm Abdulramon Jemil, a web developer, computer enthusiast and technical writer.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulramonjemil&show_icons=true&theme=tokyonight" />
 </a>
 
-### Recent Activities
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
 
 <!--
 **abdulramonjemil/abdulramonjemil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
